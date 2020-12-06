@@ -1,3 +1,3 @@
 # Mynoteappkzn
 ASNoteapp
-This is a app that I am doing for practice
+This is an app that I am doing for practice
